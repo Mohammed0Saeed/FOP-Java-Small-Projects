@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h05.ExampleJUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-06T19:51:52" hostname="fedora" time="0.027">
+  <properties/>
+  <testcase name="testPassengerPlane()" classname="h05.ExampleJUnitTest" time="0.017"/>
+  <testcase name="testCargoPlane()" classname="h05.ExampleJUnitTest" time="0.004"/>
+  <testcase name="testCombinedPlane()" classname="h05.ExampleJUnitTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
