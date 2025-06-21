@@ -1,0 +1,1 @@
+Simple chess game with simple UI, can be developed.
